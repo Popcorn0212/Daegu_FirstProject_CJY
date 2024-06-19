@@ -50,9 +50,7 @@ public class FirstCoding : MonoBehaviour
         // number1과 number2 변수의 합계 값을 출력한다.
         //numberSum = Sum(10, 20);
         //numberSum = Sum(numberInt1, numberInt2);
-        //numberSubtract = Subtract(numberInt1, numberInt2);
-        //numberMultiply = Multiply(numberInt1, numberInt2);
-        //numberDivide = Divide(numberInt1, numberInt2);
+        
 
         result = Sum(numberInt1, numberInt2);
         print(result);
