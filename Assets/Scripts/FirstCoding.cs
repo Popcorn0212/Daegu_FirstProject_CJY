@@ -8,10 +8,6 @@ public class FirstCoding : MonoBehaviour
     public int numberInt1 = 6;
     public int numberInt2 = 3;
     int result;
-    int numberRemainder;
-    int numberSubtract;
-    int numberMultiply;
-    int numberDivide;
 
     // 실수형 변수 선언하기
     public float numberFloat1;
@@ -99,7 +95,7 @@ public class FirstCoding : MonoBehaviour
     }
 
     // 두 정수의 값을 입력 받아서, 두 정수이 나눗셈 결과를 실수 형태로 반환한다.
-    // 입력받은 정수를 실수로 임시 
+    // 입력받은 정수를 실수로 임시 반환한다.
     float Divide(int num1, int num2)
     {
         return (float)num1 / (float)num2;
