@@ -8,6 +8,7 @@ public class FirstCoding : MonoBehaviour
     public int numberInt1 = 6;
     public int numberInt2 = 3;
     int result;
+    int numberRemainder;
 
     // 실수형 변수 선언하기
     public float numberFloat1;
