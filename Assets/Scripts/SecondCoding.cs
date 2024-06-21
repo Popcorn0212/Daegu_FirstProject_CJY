@@ -139,11 +139,11 @@ public class SecondCoding : MonoBehaviour
         //}
 
         // 1부터 100까지 다 더한 값을 sum이라는 변수에 저장해서 출력한다.
-        //for(int i = 0; i < endCount; i++)
+        //for (int i = 0; i < endCount; i++)
         //{
         //    sum += i + 1;
         //}
-        //print(sum);
+        //print("원하시는 합계 값은 " + sum.ToString() + "입니다.");
 
         // 누적식
         //int num = 0;
